@@ -9,7 +9,7 @@ import {
 } from '@chakra-ui/react';
 
 const About = () => (
-  <Box mb={3}>
+  <Box mt={3}>
     <Heading>About</Heading>
     <TableContainer>
       <Table variant="simple">

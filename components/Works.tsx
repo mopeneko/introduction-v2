@@ -2,7 +2,7 @@ import { Box, Heading, ListItem, UnorderedList } from '@chakra-ui/react';
 import Link from './Link';
 
 const Works = () => (
-  <Box mb={3}>
+  <Box mt={3}>
     <Heading>Works</Heading>
     <UnorderedList>
       <ListItem>
