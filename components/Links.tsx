@@ -17,7 +17,7 @@ const Links = () => (
         <ListItem>
           <Link>
             <a
-              href="https://twitter.com/_m_vt"
+              href="https://twitter.com/n1gg3rrs"
               target="_blank"
               rel="noreferrer"
             >
