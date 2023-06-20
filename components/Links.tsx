@@ -8,7 +8,7 @@ const Links = () => (
       <UnorderedList>
         <ListItem>
           <Link>
-            <a href="https://blog.lem0n.cc" target="_blank" rel="noreferrer">
+            <a href="https://mope-blog.com" target="_blank" rel="noreferrer">
               Blog
             </a>
           </Link>
