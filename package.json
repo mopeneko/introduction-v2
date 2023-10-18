@@ -14,6 +14,7 @@
     "@chakra-ui/react": "^1.8.8",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
+    "dayjs": "^1.11.10",
     "eslint-config-prettier": "^8.5.0",
     "framer-motion": "^6.3.0",
     "next": "12.1.5",
