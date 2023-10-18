@@ -7,6 +7,7 @@ import {
   Td,
   Tr,
 } from '@chakra-ui/react';
+import dayjs from 'dayjs';
 
 const About = () => (
   <Box mt={3}>
@@ -22,7 +23,7 @@ const About = () => (
 
             <Tr>
               <Td>年齢</Td>
-              <Td>20</Td>
+              <Td>{dayjs().diff(dayjs('2001-11-13'), 'years')}</Td>
             </Tr>
 
             <Tr>
