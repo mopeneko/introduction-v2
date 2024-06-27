@@ -29,11 +29,11 @@ const Links = () => (
         <ListItem>
           <Link>
             <a
-              href="https://mstdn.maud.io/@o10ng"
+              href="https://misskey.backspace.fm/@mopeneko"
               target="_blank"
               rel="noreferrer"
             >
-              Mastodon
+              Misskey
             </a>
           </Link>
         </ListItem>
